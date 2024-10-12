@@ -1,0 +1,57 @@
+# Avant propos {.unnumbered}
+
+Ce document est un manuel de formation sur la collecte de données mobile dispensée par [fdtk](#). Il a pour but de fournir aux apprenants un document auquel ils pourront se référer pour avoir plus de détail sur le contenu de la formation.
+
+Il est organisé en 8 chapitres permettant d'aquérrir des compétences en création des formulaires pour la collecte de donéees utilisant des smartphones/tablettes avec l'application ODK(Open Data Kit).
+
+## Contenu...
+
+Le premier chapitre donne une introduction à la collecte de données, en explorant différentes méthodes de collecte de données.
+
+Le deuxième porte sur le questionniare. Il permet d'avoir une vue globale de ce qu'est le questionnaire ainsi les différents type de questions.
+
+Le troisième chapitre introduit la notion de base de données. Sans entrer en profondeur de la théorie des bases de données, il donne quelques définitions et décrit les types de variables statistiques.
+
+Le quatrième chapitre présente la suite ODK comme outils de collecte de données mobile. Il montre comment les différents outils ODK aident à la mise en place d'une collecte de données de qualité. Il montre ce que vous devez avoir pour débuter le travail.
+
+Le cinquième et sixième chapitres nous plongent au coeur de la création des formulaires. Ils présentent les différents types de variables supportées par ODK et comment les mettre en oeuvre.
+
+Le chapitre 7 concerne la synchronisastion de données et montre comment paramétrer un serveur pour héberger les données collectées. Il montre également comment paramétrer les smartphones pour qu'ils téléchargent les formulaires et envoient les données collectées. On évoque aussi quelques opérations dans le serveur telles que le téléchargement des données collectées.
+
+Le dernier chapitre décrit différents projets sur lesquels les apprenants sont appelés à travailler pour solidifier les connaissances acquises. Il s'agit des questionnaires réels sur lesquels ils devront créer des formulaires et les déployer.
+
+## Ce que vous serez capable de faire à la fin de cette formation
+
+A la fin de cette formation, vous serez capables de :
+
+-   connaitre les différentes méthodes de collecte de données, leurs avantages et incovénients,
+-   connaitre les composantes d'un questionnaire,
+-   connaitre ce que sont les bases de données,
+-   créer des formulaires simple et complexes,
+-   assurer la qualité de données avec des sauts et contraintes,
+-   syncparamétrer un serveur et les téléphones pour gérer les données collectées,
+-   exporter les données collectées vers les logiciels d'analyse (Excel, SPSS,...),
+
+En somme, cette formation vous permettra de mettre en oeuvre une opération de collecte de données mobile dans le cadre d'un projet réel.
+
+## Cible
+
+Cette formation est destinée à toute personne désireuse d'acquérir des compétances en collecte de données statistiques utilisant les smartphones/tablettes.
+
+## Préréquis
+
+-   Connaissance de base en bureautique : l'utilisation élémentaire d'excel et la gestion des fichiers,
+
+## Différentes débouchées
+
+Avec les compétences acquises au cours de cette formation, vous maximiserez vos chances de travailler pour des postes de Spécialiste Suivi-Evaluation, Assistant Suivi-Evaluation, gestionnaire de base de données, Analyste de données, responsable des enquêtes, expert en étude de marchés, statisticien...
+
+## Matériel et logiciel requis
+
+-   Ordinateur disposant du logiciel Excel (ou d'une connexion internet pour utiliser Google Sheet)
+
+-   Un téléphone Android avec l'application CSEntry (version 7.7 ou ultérieure)
+
+- Téléphone Android avec l'application ODK Collect (v2023.1.2 ou ultérieure)
+
+- ODK XLSForm Offline, à [télécharger ici](#)

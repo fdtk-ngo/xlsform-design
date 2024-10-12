@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "65e89b1e"
+  },
+  "intro.qmd": {
+    "intro.html": "6d8d2959"
+  },
+  "questionnaire.qmd": {
+    "questionnaire.html": "8ea05fb7"
+  },
+  "intro-base-de-donnees.qmd": {
+    "intro-base-de-donnees.html": "d8ce4704"
+  },
+  "odk-pour-la-collecte-de-donnees.qmd": {
+    "odk-pour-la-collecte-de-donnees.html": "98bac6b0"
+  },
+  "conception-formulaire-p1.qmd": {
+    "conception-formulaire-p1.html": "4142d46a"
+  },
+  "conception-formulaire-p2.qmd": {
+    "conception-formulaire-p2.html": "f9cfaaa2"
+  },
+  "synchronisation-de-donnees.qmd": {
+    "synchronisation-de-donnees.html": "ac67ed69"
+  },
+  "projets.qmd": {
+    "projets.html": "a6aa78d0"
+  },
+  "references.qmd": {
+    "references.html": "7db9e26d"
+  }
+}

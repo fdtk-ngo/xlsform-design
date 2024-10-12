@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  #cover-image: images/xxx.jpg
+  title: "Collecte de données mobile avec ODK"
+  author: "FDTK"
+  date: "03/13/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - questionnaire.qmd
+    - intro-base-de-donnees.qmd
+    - odk-pour-la-collecte-de-donnees.qmd
+    - conception-formulaire-p1.qmd
+    - conception-formulaire-p2.qmd
+    - synchronisation-de-donnees.qmd
+    - projets.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: united
+    logo: images/logo-white.png
+  pdf:
+    documentclass: scrreprt
+
+editor: visual

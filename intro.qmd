@@ -1,0 +1,113 @@
+# Introduction à collecte de données mobile
+
+## Introduction
+
+Ce chapitre donne une introducion aux méthodes de collecte de données les plus utilisées pour recuillir des informations sur un sujet donné.
+
+La collecte de données est le processus d'obtention des réponses auprès d'une population donnée sur un sujet précis. La collecte de données mobiles (Mobile Data Collection, MDC) quand à elle, utilise des smartphones/tablettes pour collecter des données primaires sur les besoins des bénéficiaires, les mouvements de population, la localisation des infrastructures, le suivi et l'évaluation des programmes.
+
+Il y a dix ans passés, presque toutes les structures réalisaient la collecte de données sur questionnaire papier. Mais avec l'évolution des nouvelles technologies et la démocratisations des smartphones et tablettes android, beaucoup d'organisations commencent à collecter les données en utilisant des appareils mobiles. En comparaison de la traditionnelle enquête de terrain sur papier, une solution sur mobile peut vous apporter des gains de temps, des réponses standardisées, une collecte d'information plus diversifiée et produire des résultats que vous pourrez analyser et partager en un instant.
+
+Voici les avantages de la collecte de données sur support papier
+
+-   moins cher si l'enquête se réalise une seule fois,
+-   exige moins de temps d'élaboration qu'un questionnaire sur appareil mobile
+
+Voici les inconvénients de la collecte sur support papier :
+
+-   la collecte manuelle des données demande beaucoup de temps et la saisie de données est très lourde et sujette à beaucoup d'erreurs,
+-   le questionnaire ne devrait pas comprendre des instructions « passez à » ou des vérifications compliquées,
+-   l'impression des questionnaires peut coûter cher,
+-   le transport des questionnaires peut coûter cher,
+-   les questionnaires remplis doivent être rangés et protégés en toute sécurité pour garantir la confidentialité des données des répondants.
+
+**L'avantage principal de la collecte de données mobile est la simultanéité de la collecte et de la saisie des données, le résultat étant un processus de saisie et de collecte intégré, plus rapide et plus efficient.**
+
+Voici d'autres avantages :
+
+-   permet de collecter plusieurs types de données (photos, signatures, sons, coordonnées géographiques, etc...),
+-   facilité de contrôler les mouvements des interviewieurs (coordonnées géographiques),
+-   disponibliter immédiate de données permet de faire rapidement le feedback aux équipes de terrain
+-   qualité de données améliorée grâce aux instructions de contrôle programmées.
+-   elle est écologiquement conviviale (les questionnaires ne sont pas imprimés)
+
+Voici quelques incovenients:
+
+-   le développement un formulaire complexe peut prendre beaucoup de temps
+-   une erreur de manipulation d'un téléphone peut conduire à la perte d'une grande quantité de données
+-   vulnérable aux difficultés techniques (pile, bugs, synchronisation)
+
+Le tableau ci-après donne un aperçu des données qui peuvent être collectées en fonction de la population visée.
+
+| Individus                       | Données sur...                             |
+|-------------------------------|-----------------------------------------|
+| Ménages d'une localité          | Conditions de vie                          |
+| Elèves des écoles d'une contrée | Facteurs associés à l'orientation scolaire |
+| Femmes enceintes                | Usage de la moustiquaires                  |
+| Entreprises d'une ville         | Caractéristiques des chefs d'entreprises   |
+
+: Collecte de données
+
+## Méthodes de collecte de données
+
+Pendant la collecte des données, les intervenants de l'enquête déterminent où sont les membres de la population, c'est-à-dire des particuliers ou des organismes, ils communiquent avec eux et leur demandent de participer à l'enquête. Un questionnaire est ensuite administré et les réponses sont enregistrées. Ce processus coûte cher, demande beaucoup de temps et énormément de ressources, et il a des répercussions directes sur la qualité des données. Étant le principal moyen de communication du grand public avec l'organisme statistique, il contribue à l'image de marque de l'organisme et a de grandes répercussions sur la pertinence de l'organisme et la qualité de ses données. Au cours de la phase de planification de l'enquête, il faut prendre de nombreuses décisions sur la méthode de collecte des données. Un intervieweur devrait-il administrer le questionnaire? Si oui, faut-il faire une interview téléphonique ou sur place? Faut-il appliquer une combinaison de méthodes, les répondants devraient-ils remplir le questionnaire eux-mêmes et faut-il faire le suivi auprès des non-répondants au cours d'une interview téléphonique? Le questionnaire devrait-il être sur support papier ou électronique? Faut-il utiliser des données administratives pour obtenir certaines données de l'enquête? La collecte des données pour plusieurs enquêtes devrait-elle être combinée?
+
+La méthode de collecte des données choisie devrait donner un taux de participation élevé et les données obtenues devraient être les plus complètes et précises possibles, mais la méthode devrait aussi minimiser le fardeau pour les répondants et tenir compte du budget et des limites opérationnelles du client.
+
+Il existe plusieurs méthodes de collecte de données que nous pouvons clasées en deux groupes : les méhodes par autodénombrement et les méthodes par interviewieur.
+
+### Méthodes par autodénombrement
+
+Il s'agit des méthodes dans lesquelles le répondant remplit le questionnaire d'enquête lui-même, sans l'aide d'un intervieweur. Parmi ces méthodes, nous avons l'enquête postale et en ligne. Dans l'enquête postale, le service de la poste peut se charger de l'envoi et ramassage des queggstionnaires auprès des répondants. Pour l'enquête en ligne, les répondants peuvent accéder au formulaires d'enquête via un lien par le canal d'internet.
+
+Elles présentent quelques avantages :
+
+-   elle coûte relativement moins cher que les méthodes par interviewieur
+-   utile pour les enquêtes qui exigent de l'information détaillée parce que le répondant peut consulter des dossiers personnels
+
+L'un des inconvénients de l'enquête par autodénombrement est que les répondants doivent avoir des connaissances ou une bonne scolarité, ou le sujet d'enquête doit être très simple. Autre inconvénient : les taux de réponse sont habituellement plus faibles que ceux des méthodes assistées par intervieweur parce qu'il n'y a pas de pression exercée pour que le répondant réponde entièrement au questionnaire.
+
+### Méthodes par interviewieur
+
+Comme leur nom l'indique, il s'agit des méthodes dans lesquelles il y a un interviewieur se charge de poser des questions ou d'observer une situation et consigne les données dans l'outil de collecte. L'intervieweur peut être en face de la personne intérogée (enquête face à face) ou au téléphone (enquête téléphonique).
+
+Pour l'enquête face à face, l'intervieweur aide le répondant à remplir le questionnaire. L'interview se déroule sur place, habituellement à la résidence du répondant ou en milieu de travail, même si elle peut avoir lieu dans un endroit public (p. ex., aéroport, centre commercial).
+
+Voici d'autres avantages de l'enquête face à face :
+
+-   l'intervieweur peut faire des observations directes (qui sont impossibles pendant l'enquête téléphonique),
+-   l'intervieweur réussit généralement mieux à convaincre une personne qui refuse de répondre,
+-   l'intervieweur peut inspirer confiance en montrant au répondant ses pièces d'identité officielles.
+
+Voici d'autres inconvénients de l'interview sur place :
+
+-   il est parfois difficile de retenir les services d'un intervieweur raisonnablement qualifié dans tous les domaines enquêtés,
+-   il est difficile de confier des charges de travail à des intervieweurs moins débordés,
+-   il est difficile d'appliquer un programme de contrôle qualitatif au processus de l'interview.
+
+Voici d'autres avantages de l'interview sur place :
+
+-   elle coûte généralement moins cher que l'enquête face à face
+-   elle est sécuritaire que l'interview sur place parce que l'intervieweur n'a pas besoin d'aller dans des endroits dangereux ou isolés. Si le répondant est absent ou s'il veut reporter l'interview, la communication avec celui-ci demande aussi moins de temps que dans le cas de l'interview sur place.
+
+L'enquête téléphonique a un inconvénient : la longueur de l'interview et la complexité du questionnaire sont limitées parce que le répondant a moins de patience pendant une longue interview complexe au téléphone. Il est mieux disposé pendant une interview sur place. Comme un intervieweur administre le questionnaire, celui-ci peut donc être plus complexe que celui de l'enquête par autodénombrement. Les observations directes sont impossibles au téléphone, et c'est un autre inconvénient.
+
+Voici d'autres inconvénients de l'interview téléphonique :
+
+-   il peut être difficile d'établir une base de sondage avec une bonne couverture des numéros de téléphone,
+-   l'échantillonnage des numéros de téléphone est souvent inefficiente (c.-à-d. qu'il est possible de téléphoner à de nombreuses unités hors du champ de l'enquête),
+-   la confidentialité peut être un problème si une autre personne peut entendre les réponses du répondant (p. ex., lignes téléphoniques partagées),
+-   l'interview téléphonique est moins personnelle que l'interview sur place et il peut être plus difficile de convaincre les gens de l'importance de l'enquête,
+-   l'interview téléphonique peut coûter cher en interurbains.
+
+Le tableau suivant une compaison entre les différentes méthodes de collecte de données, en tenant en compte le temps pour achever la collecte de données, le coût de l'opération et le taux de réponse résultant.
+
+|                     | Autodénombrement | Face à face | Téléphonique |
+|---------------------|------------------|-------------|--------------|
+| **Coût**            | Faible           | Elevé       | Raisonnable  |
+| **Temps**           | Plus long        | Moyen       | Moins long   |
+| **Taux de réponse** | Faible           | Elevé       | Moyen-élevé  |
+
+: Méthodes de collecte des données d'enquête par autodénombrement et assistée par intervieweur
+
+Notons que ces comparaisons peuvent varier dans pays à l'autre, aussi selon l'envergure de l'opération.

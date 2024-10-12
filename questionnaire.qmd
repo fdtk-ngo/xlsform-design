@@ -1,0 +1,164 @@
+# Questionnaires
+
+Cette formation s'inscrit dans la logique d'une collecte de données utilsant les smartphones/tablettes. De ce fait, nous partirons de l'hypothèse selon laquelle nous disposons déjà d'un questionnaire papier à partir duquel nous allons créer le formulaire électronique.
+
+De ce fait, nous ne verrons pas comment élaborer un questionnaire, mais nous parlerons de quelques lignes directrices que doit respecter un bon questionnaire. Nous verrons également les différents types de questions que l'on peut retrouver dans un questionnaires.
+
+## Introduction aux questionnaires
+
+Un questionnaire est un ensemble de questions conçues pour obtenir des données sur un sujet auprès d'un répondant. Les questionnaires sont au coeur du processus de collecte de données et ont un impact significatif sur la qualité des données car ils constituent le moyen de collecte. Les questions posées doivent correspondre aux objectifs de l'enquête et permettre la collecte d'informations pour l'analyse des données. Chaque question doit avoir une justification explicite pour être incluse dans le questionnaire et il est important de savoir pourquoi chaque question est posée et comment l'information sera utilisée. La formulation des questions doit être claire, logiquement ordonnée et facile à comprendre pour le répondant, tout en permettant des réponses précises. Enfin, un test du questionnaire devrait être effectué avant son utilisation, en utilisant des groupes de discussion ou un pré-test pour valider sa qualité.
+
+Un questionnaire bien conçu devrait :
+
+-   permettre la collecte des données avec efficience et le résultat devrait comprendre un nombre minimal d'erreurs et de données incohérentes,
+-   être convivial pour l'intervieweur et le répondant (s'il s'agit d'une enquête assistée par intervieweur),
+-   diminuer dans l'ensemble le coût et le temps de la collecte des données.
+
+## Processus de conception du questionnaire
+
+Le processus de conception du questionnaire commence par la formulation des objectifs de l'enquête et des besoins d'information et continue avec les étapes suivantes :
+
+-   consultation avec les utilisateurs des données et les répondants,
+-   examen des questionnaires précédents,
+-   version provisoire du questionnaire,
+-   examen et révision du questionnaire,
+-   mise à l'essai et révision du questionnaire,
+-   touche finale apportée au questionnaire.
+
+## Types de questions
+
+Il y a principalement deux types de questions : ouvertes et fermées.
+
+-   Les questions ouvertes sont celles pour lesquelles on ne donne pas les catégories de réponse au répondant. Le répondant donne un chiffre exact ou une réponse à la question dans ses propres mots par écrit dans le cas d'un questionnaire d'enquête par autodénombrement ou l'intervieweur enregistre la réponse intégralement.
+
+Voici un exemple de question ouverte :
+
+*Quel est le problème majeur auquel est confroté votre communauté ?*
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+-   Les questions fermées comprennent des catégories de réponse inscrites sous la question. On répond à la question fermée en cochant une case ou en encerclant la réponse exacte dans la liste fournie. Les réponses possibles énumérées pour une question sont appelées *catégories de réponse* ou *modalités*.
+
+*Combien de nuits cette moustiquaire a-t-elle été utilisée au cours de la semaine écoulée ? (sélectionnez une seule réponse)*
+
+-   *TOUTES LES NUITS ....................1*
+
+-   *LA PLUPART DES NUITS (5-6) ....2*
+
+-   *CERTAINES NUITS (1-4) ...........3*
+
+-   *NON UTILISÉE LA SEMAINE DERNIÈRE ........4*
+
+-   *MOUSTIQUAIRE NON UTILISÉE DU TOUT .........5*
+
+-   *NE SAIT PAS...........98*
+
+Une question ouverte permet au répondant d'exprimer une réponse sans l'influence des catégories de réponse inscrites sous une question fermée. Ce choix permet cependant d'interpréter la question de différentes façons. Une question ouverte élargit donc la portée de la question en général et la version fermée donne au répondant des indices sur la manière d'interpréter la question. Une question fermée ramène aussi le répondant à un ensemble de réponses déterminées.
+
+Les questions ouvertes comme celle-ci : « Avez-vous des commentaires supplémentaires? » sont souvent posées à la fin des sections de questions ou à la fin du questionnaire. Le répondant a donc l'occasion d'ajouter tout ce qui est pertinent, à son avis, aux questions considérées dans le questionnaire. Certains répondants pourraient vouloir ajouter de l'information supplémentaire pour préciser une réponse. Il est important de prévoir ce genre d'information dans le questionnaire.
+
+Mais ce type de question (ouverte) représente un fardeau pour les réponses non numériques. Après la collecte, toutes les réponses différentes sont habituellement réparties en catégories et un code numérique leur est attribué pour faciliter le traitement et l'analyse des données. Les questions ouvertes se traduisent donc habituellement par un traitement plus cher, plus exposé aux erreurs et qui demandent plus de temps que les questions fermées
+
+Les questions fermées ont de nombreux avantages dont le plus important est qu'elles sont moins un fardeau pour les répondants, et la collecte et la saisie des données sont plus faciles et moins chères. Le répondant réagit plus rapidement et facilement parce qu'il choisit simplement la catégorie de réponse appropriée au lieu de formuler une réponse et de l'inscrire dans ses propres mots.
+
+Elles ont aussi des inconvients. Si les catégories de réponse ne sont pas clairement formulées, le répondant pourrait avoir davantage de problèmes que si la question posée était ouverte.
+
+Il y a plusieurs genres de questions fermées : les plus fréquemment utilisées sont les questions dichotomiques, à choix multiples, avec réponses à cocher, avec classement et avec échelle d'évaluation.
+
+-   Questions dichotomiques
+
+La question dichotomique est la version la plus simple d'une question fermée. Il s'agit souvent d'une question oui -- non et elle sert à répartir les répondants en deux groupes distincts. La question dichotomique permet aussi la sélection pour éviter de demander aux répondants une série de questions qui ne s'appliquent pas à eux. La directive « Passez à la question X » est ensuite inscrite immédiatement après l'une des catégories de réponse et les répondants passent outre à certaines questions. Cette instruction est parfois appelée « aiguillage ».
+
+Par exemple :
+
+*Avez-vous fumé des cigarettes hier?*
+
+-   *Oui*
+
+-   *Non.............Passez à la question 14*
+
+-   Questions à choix multiples et avec réponses à cocher
+
+Les questions à choix multiples permettent au répondant de choisir plusieurs réponses sur base d'une liste.
+
+Voici un exemple de question à réponse multiple :
+
+*Quels moyens de transport utilisez-vous pour vous rendre au travail ? (plusieurs réponses possibles)*
+
+-   *BUS.................A*
+
+-   *TAXI.................B*
+
+-   *TRAIN...............C*
+
+-   *AUTRES...............Z*
+
+-   Questions avec classement
+
+Voici une liste de certains moyens dont les gens se servent pour trouver un emploi. Veuillez les classer par ordre d'efficacité en inscrivant « 1 » à la méthode qui serait la plus utile, selon vous, « 2 » à la méthode qui serait la plus utile en second lieu, et ainsi de suite.
+
+-   *Envoi de curriculum vitae par la poste*
+
+-   *Annonces dans les journaux ou les revues Centres d'emploi du gouvernement*
+
+-   *Vérification auprès d'amis*
+
+-   *Service de placement privé*
+
+-   *Communication directe avec des employeurs*
+
+-   *Autre (veuillez préciser)*
+
+Les répondants considèrent souvent que le classement des catégories est un fardeau, surtout si les points à classer sont très différents l'un de l'autre ou si l'interview se déroule au téléphone. Les questions avec classement posent un autre problème : les écarts l'importance des réponses classées sont inconnus et ne sont probablement pas équivalents, c'est-à-dire que l'écart entre 1 et 2 ne peut être considéré comme équivalent à l'écart entre 2 et 3.
+
+-   Questions avec échelle d'évaluation
+
+Les questions avec l'échelle d'évaluation demandent au répondant d'évaluer leur réponse, par exemple :
+
+Êtes-vous satisfait de notre service à la clientèle?
+
+-   *Très satisfait*
+
+-   *Satisfait*
+
+-   *Insatisfait*
+
+-   *Très insatisfait*
+
+La formulation d'une question avec échelle d'évaluation demande plusieurs considérations. Premièrement, combien de catégories devrait avoir l'échelle d'évaluation? Elle pourrait en avoir seulement deux -- d'accord, pas d'accord -- ou jusqu'à 10, à partir de 1 (sans importance) jusqu'à 10 (extrêmement important).
+
+Deuxièmement, une question se pose, à savoir si l'échelle d'évaluation devrait avoir ou non un choix neutre, par exemple, ni satisfait ni insatisfait. En l'absence d'une possibilité neutre, le répondant doit faire un choix. D'autre part, les répondants ont tendance à choisir la réponse neutre si elle est ajoutée. Il est possible d'ajouter le choix neutre dans un questionnaire assisté par intervieweur, mais sans l'offrir au répondant. Il est alors sélectionné seulement si le répondant l'exprime spontanément.
+
+Troisièmement, lors de la formulation d'une question avec échelle d'évaluation, il faut considérer l'ajout de la catégorie « Ne sais pas -- pas d'opinion » ou « Sans objet », compte tenu de la question posée. Lorsque vous posez une question sur un service en particulier que le répondant n'a peut-être jamais utilisé, par exemple, il faut ajouter la catégorie « Sans objet ».
+
+Dans chacun de ces cas (nombre de catégories de l'échelle d'évaluation, ajout d'un choix neutre, recours à la catégorie « Sans objet »), la solution sera déterminée en tenant compte des objectifs de l'enquête, du point à coter, de la méthode de collecte des données et des préférences de l'organisme statistique.
+
+## Présentation du questionnaire
+
+A. Ordonnancement des questions
+
+L'ordre des questions devrait être conçu pour maintenir l'intérêt du répondant et l'inciter à remplir le questionnaire ou à répondre à l'interview. La séquence des questions devrait être logique pour le répondant et faciliter le rappel à la mémoire. Les questions devraient couler doucement de l'une à l'autre. Il faudrait regrouper les questions sur un même sujet.
+
+B. Énoncés de transition
+
+Les énoncés de transition des questionnaires servent à présenter des sections de questions connexes. Ils sont importants dans les questionnaires assistés par intervieweur parce qu'ils indiquent au répondant qu'un nouveau sujet sera considéré, par exemple :
+
+> Partie A - Nous voulons d'abord obtenir des renseignements généraux sur votre exploitation agricole.
+
+> Partie B - Nous voulons maintenant obtenir de l'information sur votre superficie en culture l'an dernier.
+
+> Partie C - Les questions suivantes portent sur les déclarations de revenus de votre exploitation agricole l'an dernier.
+
+C. Instructions
+
+Le questionnaire assisté par intervieweur ou celui de l'enquête par autodénombrement devrait comprendre des instructions claires, brèves et faciles à trouver. Ces instructions peuvent être inscrites directement au-dessus des questions ciblées, au début du questionnaire, dans un guide distinct qui accompagne les questions, dans un encart, etc.
+
+Combien de pièces y a-t-il dans ce logement?
+
+-   Comptez la cuisine, les chambres à coucher, les pièces habitables au grenier ou au sous-sol,etc
+
+D. Considérations sur la mise en forme
+
+Il y a de nombreuses considérations à ne pas oublier lors de l'organisation des mots imprimés sur support papier ou affichés à l'écran. Il faudrait maintenir l'uniformité du style et de la police de caractères des questions, instructions, entêtes et énoncés de transition. Le recours à des polices et styles de caractères différents pour les questions et les instructions permet au répondant ou à l'intervieweur d'identifier facilement les questions. Les titres et entêtes de section ont habituellement une police de caractères plus larges que celle des questions et des catégories de réponse. Il faudrait énumérer consécutivement les questions d'un bout à l'autre du questionnaire. Des nombres, titres ou lettres peuvent indiquer les sections.

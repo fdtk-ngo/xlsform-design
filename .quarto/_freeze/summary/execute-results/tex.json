@@ -1,0 +1,18 @@
+{
+  "hash": "b070048036d0e7f1921208a3e548a4dd",
+  "result": {
+    "markdown": "# Summary\n\nIn summary, this book has no content whatsoever.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\n```{.r .cell-code}\n---\ntitle: \"Navigation Bar\"\noutput: \n  flexdashboard::flex_dashboard:\n    navbar:\n      - { title: \"About\", href: \"https://example.com/about\", align: left }\n---\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}

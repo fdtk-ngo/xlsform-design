@@ -1,0 +1,23 @@
+# Projets {.unnumbered}
+
+Ce chapitre regroupe des projets qui sont réalisés au cours de la formation et à la fin pour aider les apprenants à mettre en pratique les connaissances acquises.
+
+Travailler sur des projets réels présente plusieurs avantages importants tels que :
+
+-   **Application pratique des compétences acquises** : Les projets réels permettent aux apprenants de mettre en pratique les connaissances théoriques apprises en classe. Cela facilite la compréhension et la mémorisation, permettant ainsi une meilleure consolidation des acquis.
+
+-   **Développement de compétences opérationnelles** : Les projets réels permettent aux apprenants de développer des compétences opérationnelles liées à leur domaine d'étude. De plus, cela les rend plus professionnels, capables de résoudre les problèmes qui se présentent réellement sur le terrain.
+
+-   **Réalisme** : Les projets réels sont souvent plus stimulants pour les apprenants, car le processus de résolution des problèmes est plus réaliste. Les situations présentées dans les projets réels correspondent mieux à celle sur le terrain, ce qui permet aux apprenants de se préparer plus efficacement pour leur future carrière.
+
+## Évaluation de l'usage des aphrodisiaques chez les jeunes et adultes à Kinshasa.
+
+Une étude de l'usage des aphrodisiaques chez les jeunes et adultes à Kinshasa. 
+
+Cliquez sur ce [lien](images/aphrodisiaque.xlsx) pour télécharger le fichier XLSForm de ce projet.
+
+## Etude sur la gestion des déchets ménagers dans les ménages de Kinshasa.
+
+Une étude visant à comprendre les comportements des ménages sur la gestion des déchets.
+
+Cliquez sur ce [lien](images/gestion-dechets.xlsx) pour télécharger le fichier XLSForm de ce projet.
